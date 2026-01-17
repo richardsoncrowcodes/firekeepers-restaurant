@@ -6,7 +6,7 @@ image: /img/demo1.avif
 
 header: 
  title: "Firekeepers"
- description: "Local restaurant, proudly owned by Onondaga Nation, serving and supporting its community! Est. 1983."
+ description: "Local restaurant, proudly owned by the Onondaga Nation, serving and supporting its community! Est. 1983."
  image: /img/firekeepers.jpg
  button1: 
    text: "Explore Menu"

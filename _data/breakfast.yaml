@@ -9,21 +9,21 @@ menu:
    price: "$12.95"
    image: "/img/breakfast.avif"
    description: |
-     Choice of 2 pancakes OR French Toast with 2 eggs any style & choice of bacon, ham, or sausage. Served with home friest and toast.
+     Choice of 2 pancakes OR French Toast with 2 eggs any style & choice of bacon, ham, or sausage. Served with home fries and toast.
    list_active: false
    option: false
  - title: "Meat Lovers Skillet"
    single_price: true
    price: "$11.95"
    image: "/img/breakfast.avif"
-   description: "Bacon , ham, and sausage scrambied togehter with 3 eggs and home fries,then topped with cheddar cheese. Served with toast"
+   description: "Bacon , ham, and sausage scrambled together with 3 eggs and home fries then topped with cheddar cheese. Served with toast"
    list_active: false
    option: false
  - title: "Veggie Skillet"
    single_price: true
    price: "$11.50"
    image: "/img/breakfast.avif"
-   description: "Onionis, peppers, mushrooms , and broccoli, scrambled together with 3 eggs and home fries, then topped with cheddar cheese. Served with toast."
+   description: "Onions, peppers, mushrooms, and broccoli scrambled together with 3 eggs and home fries, then topped with cheddar cheese. Served with toast."
    list_active: false
    option: false
  - title: "Steak and Eggs"
@@ -37,7 +37,7 @@ menu:
    single_price: true
    price: "$11.75"
    image: "/img/breakfast.avif"
-   description: "Scrambled eggs, sausage, peppers , onions, mushrooms, broccoli,pepperoni , and home fries. Served with toast."
+   description: "Scrambled eggs, sausage, peppers, onions, mushrooms, broccoli, pepperoni, and home fries. Served with toast."
    list_active: false
    option: false
  - title: "Two Eggs"
@@ -57,7 +57,7 @@ menu:
    single_price: true
    price: "$6.50"
    image: "/img/breakfast.avif"
-   description: "One egg with coice of ham, bacon, OR sausage and choice of cheese on a hard roll with home fries"
+   description: "One egg with choice of ham, bacon, OR sausage and choice of cheese on a hard roll with home fries"
    list_active: false
    option: true
    option_list: 
@@ -74,7 +74,7 @@ menu:
    single_price: true
    price: "$10.50"
    image: "/img/breakfast.avif"
-   description: "Scrambled eggs,chesse and 3 toppings, any additional toppings"
+   description: "Scrambled eggs, chesse and 3 toppings, any additional toppings"
    list_active: false
    option: false
  - title: "Breakfast Pizza"
@@ -107,7 +107,7 @@ menu:
        price: "$5.75"
    option: true
    option_list: 
-     - text: "Add Blueberries or Strawberies"
+     - text: "Add Blueberries or Strawberries"
        price: "$2.00"
  - title: "French Toast"
    single_price: false
@@ -160,7 +160,7 @@ menu:
      - text: "Add Cheese"
        price:  
        variant: 
-          - name: "American , Swiss , Cheddar, Provolone , OR Mozzarella"
+          - name: "American, Swiss, Cheddar, Provolone OR Mozzarella"
             price: "$1.75"
      - text: "Add Veggies"
        price:  

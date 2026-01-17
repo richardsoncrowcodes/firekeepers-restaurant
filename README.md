@@ -84,6 +84,8 @@ Contact Me
 - add links to google maps done
 - disable reservations done
 
+- 20260116cc
+- breakfast.yaml, breakfast.md, index.md, menus.yaml, menu.md, about.md : spelling and grammatical fixes
 
 
 

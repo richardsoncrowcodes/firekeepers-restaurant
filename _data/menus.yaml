@@ -16,7 +16,7 @@ list:
        description:
        price: "$9.00"
        option: false
-     - name: "Bufallo Tenders"
+     - name: "Buffalo Tenders"
        description:
        price: "$9.50"
        option: false
@@ -43,7 +43,7 @@ list:
        description:
        price: "$4.50"
        option: false
-     - name: "Applesacue"
+     - name: "Applesauce"
        description:
        price: "$3.25"
        option: false
@@ -96,7 +96,7 @@ list:
    image: /img/salads.avif
    item: 
      - name: "Chicken"
-       description: "Grilled , Cripsy or Bufallo"
+       description: "Grilled , Cripsy or Buffalo"
        price: "$11.25"
        option: false
      - name: "Julienne"
@@ -214,7 +214,7 @@ list:
    description: 
    image: /img/kids.avif
    item: 
-     - name: "Choice of Spaghetti, Tenders , Grilled Cheese, or Hamburger"
+     - name: "Choice of Spaghetti, Tenders, Grilled Cheese, or Hamburger"
        description: 
        price: "$6.95"
        option: false
